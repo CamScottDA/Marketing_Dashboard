@@ -1,0 +1,34 @@
+CampaignKey,CampaignName,CampaignType,OwnerName,ChannelKey,SourceKey,AudienceKey,StartDateKey,EndDateKey,BudgetTier,StrengthScore,TargetRegions
+1,Retirement Readiness Email Series,Nurture,Michael Scott,1,3,1,20250301,20251231,Low,0.78,Southeast|West|Northeast
+2,Quarterly Market Outlook Webinar,Education,Jim Halpert,2,6,3,20230701,20240831,Low,1.1,West|Southwest
+3,Organic Retirement Guide SEO,Acquisition,Dwight Schrute,3,7,1,20221101,20240131,Low,0.77,Southeast|Northeast|Midwest
+4,Q1 PPC - Wealth Building Search,Lead Generation,Pam Beesly,4,10,2,20220301,20230331,Medium,0.94,Southeast|Southwest|Midwest|West
+5,LinkedIn Executive Wealth Campaign,Lead Generation,Stanley Martin,5,13,8,20220201,20230430,High,0.78,Southwest|Midwest|Southeast
+6,Client Referral Growth Push,Referral,Holly Flax,6,16,3,20230901,20240430,High,1.23,Northeast|West|Southeast
+7,Affiliate Retirement Planner Promotion,Partner,Michael Scott,7,19,1,20221201,20231231,Medium,0.6,West|Midwest|Northeast
+8,Tax-Smart Investing Email Nurture,Nurture,Jim Halpert,1,3,6,20240401,20250131,Medium,1.04,Southwest|Northeast
+9,Women & Wealth Webinar Series,Education,Dwight Schrute,2,6,5,20220301,20230228,Medium,0.88,West|Southeast|Midwest
+10,Estate Planning Resource Hub SEO,Acquisition,Pam Beesly,3,7,5,20250301,20251130,Low,0.96,Midwest|Northeast|Southwest
+11,Q2 PPC - Private Wealth Leads,Lead Generation,Stanley Martin,4,10,8,20220401,20230731,Medium,0.91,Midwest|Southeast|Southwest|West
+12,Facebook Financial Planning Leads,Lead Generation,Holly Flax,5,13,4,20230801,20240930,Medium,0.81,West|Southeast
+13,Advisor Referral Expansion,Referral,Michael Scott,6,16,4,20220801,20230531,Medium,1.12,West|Southeast|Midwest
+14,Affiliate College Savings Push,Partner,Jim Halpert,7,20,7,20250401,20251231,High,0.86,Southeast|Northeast
+15,High Net Worth Email Prospecting,Nurture,Dwight Schrute,1,2,8,20220201,20230228,Medium,1.0,Southeast|Midwest
+16,Retirement Income Webinar Funnel,Education,Pam Beesly,2,4,1,20240501,20250131,Medium,0.84,Southwest|Southeast|West|Northeast
+17,Portfolio Management Search SEO,Acquisition,Stanley Martin,3,7,3,20240201,20241031,Medium,1.0,West|Southwest|Midwest
+18,Q3 PPC - Retirement Income Search,Lead Generation,Holly Flax,4,11,1,20240701,20250930,Medium,0.97,West|Southwest|Northeast
+19,YouTube Wealth Education Campaign,Lead Generation,Michael Scott,5,13,2,20230201,20240331,High,0.93,Southeast|Southwest|Midwest
+20,CPA Referral Wealth Program,Referral,Jim Halpert,6,17,2,20230901,20240531,Medium,1.15,West|Midwest|Southwest|Northeast
+21,Affiliate Tax Strategy Campaign,Partner,Dwight Schrute,7,21,6,20231201,20250331,Medium,0.85,Midwest|Northeast|Southeast
+22,New Investor Welcome Email,Nurture,Pam Beesly,1,2,2,20240501,20241231,Low,0.69,Midwest|Southeast
+23,Year-End Tax Strategy Webinar,Education,Stanley Martin,2,6,6,20240101,20250228,High,0.77,West|Southeast|Northeast
+24,Financial Planning Basics SEO,Acquisition,Holly Flax,3,8,4,20220801,20231031,High,0.69,West|Midwest
+25,Q4 PPC - Estate Planning Search,Lead Generation,Michael Scott,4,11,5,20221101,20230831,Low,1.15,Midwest|Southeast|Northeast
+26,LinkedIn Private Wealth Outreach,Lead Generation,Jim Halpert,5,13,8,20240901,20250831,High,0.99,Northeast|Southwest
+27,Client Referral Appreciation Drive,Referral,Dwight Schrute,6,18,2,20250301,20251231,High,1.02,Southwest|Southeast|West
+28,Affiliate Wealth Comparison Push,Partner,Pam Beesly,7,21,2,20231101,20250131,High,0.78,Southeast|West|Midwest|Southwest
+29,College Savings Email Journey,Nurture,Stanley Martin,1,2,7,20250101,20251031,High,0.71,Southwest|West|Northeast
+30,Market Volatility Webinar,Education,Holly Flax,2,4,3,20241101,20250630,Low,1.15,Northeast|Southeast|Midwest
+31,Tax-Efficient Investing SEO,Acquisition,Michael Scott,3,7,6,20241101,20251031,Low,0.76,Southeast|Northeast
+32,PPC - Financial Planning Consults,Lead Generation,Jim Halpert,4,10,4,20230201,20240331,High,1.12,West|Southeast
+33,Social Lead Gen - Retirement Planning,Lead Generation,Dwight Schrute,5,14,1,20240301,20250630,Medium,0.76,West|Southeast|Midwest

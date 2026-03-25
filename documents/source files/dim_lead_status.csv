@@ -1,0 +1,7 @@
+LeadStatusKey,LeadStatus,StageOrder,IsClosedFlag,IsActivePipelineFlag
+1,Lead,1,0,1
+2,MQL,2,0,1
+3,SQL,3,0,1
+4,Opportunity,4,0,1
+5,Closed Won,5,1,0
+6,Closed Lost,5,1,0

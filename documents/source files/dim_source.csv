@@ -1,0 +1,22 @@
+SourceKey,SourceName,ChannelKey,ChannelName
+1,Prospect Nurture Email,1,Email
+2,Market Commentary Newsletter,1,Email
+3,Retirement Drip Series,1,Email
+4,Quarterly Market Outlook Webinar,2,Webinar
+5,Retirement Income Webinar,2,Webinar
+6,Tax Strategy Webinar,2,Webinar
+7,Organic Search,3,SEO
+8,Advisor Insights Blog,3,SEO
+9,Planning Guide Landing Page,3,SEO
+10,Google Search Ads,4,PPC
+11,Bing Search Ads,4,PPC
+12,Display Retargeting,4,PPC
+13,LinkedIn Sponsored Content,5,Social Media
+14,Facebook Lead Ads,5,Social Media
+15,YouTube Video Ads,5,Social Media
+16,Client Referral Program,6,Referral
+17,Advisor Referral Network,6,Referral
+18,CPA Partner Referral,6,Referral
+19,Finance Publisher Network,7,Affiliate
+20,Retirement Blog Partner,7,Affiliate
+21,Wealth Comparison Marketplace,7,Affiliate
