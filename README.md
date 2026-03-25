@@ -75,13 +75,13 @@ Highlights campaign efficiency and downstream business value using pipeline, CPL
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](docs/screenshots/Executive_Dashboard.png)
+![Executive Overview](documents/screenshots/Executive_Dashboard.png)
 
 ### Funnel Analysis
-![Funnel Analysis](docs/screenshots/Funnel_Performance.png)
+![Funnel Analysis](documents/screenshots/Funnel_Performance.png)
 
 ### Campaign Efficiency and Revenue Impact
-![Campaign Efficiency and Revenue Impact](docs/screenshots/Campaign_efficiency.png)
+![Campaign Efficiency and Revenue Impact](documents/screenshots/Campaign_efficiency.png)
 
 ## Core Measures
 - Total Revenue
