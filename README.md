@@ -75,7 +75,7 @@ Highlights campaign efficiency and downstream business value using pipeline, CPL
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](docs/screenshots/Executive_Overview.png)
+![Executive Overview](docs/screenshots/Executive_Dashboard.png)
 
 ### Funnel Analysis
 ![Funnel Analysis](docs/screenshots/Funnel_Performance.png)
